@@ -114,13 +114,6 @@ Formato entregado para integración con sistemas del banco:
 }
 ```
 ---
-## 📬 Contactos Técnicos
-
-- **ML / Segmentación:** Henderson Palomino
-- **CRM / Campañas:** Leslie Sánchez / Carlos Gutarra
-- **Canales Digitales:** Evelyn La Rosa
-
----
 
 ## 🛠️ Tecnologías Usadas
 
