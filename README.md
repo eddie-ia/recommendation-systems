@@ -1,6 +1,6 @@
 # 🧠 Proyecto POC — Segmentación de Clientes con ML No Supervisado (K-Means)
 
-Este proyecto corresponde a un **POC técnico** orientado a identificar patrones de consumo en clientes del canal digital del banco, usando técnicas de **aprendizaje no supervisado**, principalmente **K-Means**, con el objetivo de crear segmentos de clientes relevantes para **personalización de promociones** y **estrategias de marketing automatizadas**.
+Este proyecto corresponde a un **POC técnico** orientado a identificar patrones de consumo en clientes del canal digital del organization, usando técnicas de **aprendizaje no supervisado**, principalmente **K-Means**, con el objetivo de crear segmentos de clientes relevantes para **personalización de promociones** y **estrategias de marketing automatizadas**.
 
 ---
 
@@ -85,7 +85,7 @@ dni,cluster_id,cluster_nombre,rubro_top,score_supermercado,score_farmacia,score_
 
 ## 📤 Output Listo para Backend
 
-Formato entregado para integración con sistemas del banco:
+Formato entregado para integración con sistemas del organization:
 
 - Archivo `.csv` o `.parquet`
 - Estructura legible por APIs o backend SQL
